@@ -1,2 +1,2 @@
 # CS219
-UNR | Computer Organization
+UNR | Computer Organization | Spring 2020
